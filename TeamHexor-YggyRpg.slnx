@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="sc.vegetationspawner.runtime.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="sc.vegetationspawner.editor.csproj" />
+  <Project Path="OccaSoftware.Crosshairs.Editor.csproj" />
+</Solution>
